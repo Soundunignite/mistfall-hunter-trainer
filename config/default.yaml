@@ -1,0 +1,14 @@
+process_name: MistfallHunter.exe
+aim:
+  enabled: false
+  fov: 45.0
+  smooth: 3.5
+  bone: head
+  hotkey: f1
+esp:
+  enabled: false
+  box: true
+  health_bar: true
+  distance: true
+  max_range: 350.0
+godmode: false
